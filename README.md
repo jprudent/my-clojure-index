@@ -4,5 +4,10 @@ A bunch of links gravitating around Clojure
 ## General documentation
 - [clojure-doc.org](http://clojure-doc.org/) collects basic documentation on the language
 
+## Community
+- [clojure ml](https://groups.google.com/forum/#!forum/clojure) Clojure official mailing list 
+- [clojure-fr ml](https://groups.google.com/forum/#!forum/clojure-fr) Pour la communauté française.
+- There is also clojure related chatrooms on [slack](https://clojurians.slack.com). I suggest to join both #clojure and #clojurescript.
+
 ## Macros
 - [reader and macro basics](http://clojure-doc.org/articles/language/macros.html)
