@@ -16,3 +16,7 @@ A bunch of links gravitating around Clojure
 
 ## Macros
 - [reader and macro basics](http://clojure-doc.org/articles/language/macros.html)
+
+## core.async
+- A detailed walkthrough [publish/subscribe](https://yobriefca.se/blog/2014/06/04/publish-and-subscribe-with-core-dot-asyncs-pub-and-sub/)
+
