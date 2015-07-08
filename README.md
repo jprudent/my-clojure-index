@@ -2,6 +2,7 @@
 A bunch of links gravitating around Clojure
 
 ## General documentation
+- Clojure [cheat sheet](http://clojure.org/cheatsheet) is my browser home page.
 - [clojure-doc.org](http://clojure-doc.org/) collects basic documentation on the language
 
 ## Community
