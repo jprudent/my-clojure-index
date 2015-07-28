@@ -14,9 +14,6 @@ A bunch of links gravitating around Clojure
 ## Workflow
 - [vinyasa](https://github.com/zcaudate/vinyasa) is a lein library that leverage the repl to do crazy thing : inject on the fly new dependencies, control lein, hot reload of java classes (but you will loose the state), injection of ns in another, introspection, ...
 
-## Libraries
-- [Clojure Toolbox](http://www.clojure-toolbox.com/) is a great repository of well known libraries.
-
 ## Macros
 - [reader and macro basics](http://clojure-doc.org/articles/language/macros.html)
 
@@ -25,3 +22,10 @@ A bunch of links gravitating around Clojure
 
 ## Behaviour Driven Design
 - A step by step [walkthrough](https://github.com/gphilipp/bdd-guide-clojure) Cucumber, Lein and Cursive.
+
+## Libraries
+- [Clojure Toolbox](http://www.clojure-toolbox.com/) is a great repository of well known libraries.
+
+### Datastructure manipulation
+- [Balagan](https://github.com/clojurewerkz/balagan) _Not tested yet_
+- [Specter](https://github.com/nathanmarz/specter) _Not tested yet_
