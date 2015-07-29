@@ -18,6 +18,9 @@ A bunch of links gravitating around Clojure
 ## Macros
 - [reader and macro basics](http://clojure-doc.org/articles/language/macros.html)
 
+## Namespaces
+- A [review](http://blog.8thlight.com/colin-jones/2010/12/05/clojure-libs-and-namespaces-require-use-import-and-ns.html) of `require`, `use`, etc. 
+
 ## [core.async](https://github.com/clojure/core.async)
 - A detailed walkthrough [publish/subscribe](https://yobriefca.se/blog/2014/06/04/publish-and-subscribe-with-core-dot-asyncs-pub-and-sub/)
 
