@@ -13,6 +13,7 @@ A bunch of links gravitating around Clojure
 
 ## Workflow
 - [vinyasa](https://github.com/zcaudate/vinyasa) is a lein library that leverage the repl to do crazy thing : inject on the fly new dependencies, control lein, hot reload of java classes (but you will loose the state), injection of ns in another, introspection, ...
+- [Ultra](https://github.com/venantius/ultra) provide color to the lein repl
 
 ## Macros
 - [reader and macro basics](http://clojure-doc.org/articles/language/macros.html)
