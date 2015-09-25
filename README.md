@@ -5,6 +5,7 @@ A bunch of links gravitating around Clojure
 - Clojure [cheat sheet](http://clojure.org/cheatsheet) presents the core documentation in a single well organized page.
 - [Grimmoire](http://conj.io/) is like the cheat sheet but with tooltips and a nice search field.
 - [clojure-doc.org](http://clojure-doc.org/) collects basic documentation on the language
+- [Brave Clojure](http://www.braveclojure.com/) Online book with first class content !
 
 ## Community
 - [clojure ml](https://groups.google.com/forum/#!forum/clojure) Clojure official mailing list 
