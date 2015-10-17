@@ -26,6 +26,10 @@ A bunch of links gravitating around Clojure
 ## [core.async](https://github.com/clojure/core.async)
 - A detailed walkthrough [publish/subscribe](https://yobriefca.se/blog/2014/06/04/publish-and-subscribe-with-core-dot-asyncs-pub-and-sub/)
 
+## [friend](https://github.com/cemerick/friend)
+Friend is a library on top of ring that handles security aspects of webapps
+- A [guide](http://adambard.com/blog/easy-auth-with-friend) to do custom authentification
+
 ## Behaviour Driven Design
 - A step by step [walkthrough](https://github.com/gphilipp/bdd-guide-clojure) Cucumber, Lein and Cursive.
 
