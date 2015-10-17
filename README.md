@@ -29,6 +29,7 @@ A bunch of links gravitating around Clojure
 ## [friend](https://github.com/cemerick/friend)
 Friend is a library on top of ring that handles security aspects of webapps
 - A [guide](http://adambard.com/blog/easy-auth-with-friend) to do custom authentification
+- A [collection of examples](https://github.com/cemerick/friend-demo) that shows how to use _friend_
 
 ## Behaviour Driven Design
 - A step by step [walkthrough](https://github.com/gphilipp/bdd-guide-clojure) Cucumber, Lein and Cursive.
