@@ -37,6 +37,9 @@ Friend is a library on top of ring that handles security aspects of webapps
 ## Libraries
 - [Clojure Toolbox](http://www.clojure-toolbox.com/) is a great repository of well known libraries.
 
-### Datastructure manipulation
+## Web
+- A [state of the art](https://github.com/edvorg/yet-another-craft) small clojure webapp. Very inspiring.
+
+## Datastructure manipulation
 - [Balagan](https://github.com/clojurewerkz/balagan) _Not tested yet_
 - [Specter](https://github.com/nathanmarz/specter) _Not tested yet_
